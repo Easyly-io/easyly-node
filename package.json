@@ -1,0 +1,24 @@
+{
+  "name": "easyly",
+  "version": "1.0.1",
+  "description": "Easyly Node.js Library",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Easyly-io/easyly-node.git"
+  },
+  "keywords": [
+    "Easyly",
+    "nodejs",
+    "api"
+  ],
+  "author": "Niv Apo",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Easyly-io/easyly-node/issues"
+  },
+  "homepage": "https://github.com/Easyly-io/easyly-node#readme"
+}
